@@ -28,7 +28,7 @@ This is a backend REST API developed using Spring Boot as part of the Retailclou
    ./mvnw spring-boot:run
 
 ## Database
-- See `db/schema.sql` for table structure.
+- See `db/ems-schema.sql` for table structure.
 - Contains two tables: `employee` and `department`.
 
 ## Postman
