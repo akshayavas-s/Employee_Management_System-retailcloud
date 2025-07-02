@@ -33,7 +33,6 @@ This is a backend REST API developed using Spring Boot as part of the Retailclou
 
 ## Postman
 - Collection file: `postman/EMS.postman_collection.json`
-- Documentation: https://www.postman.com/your-link-here](https://documenter.getpostman.com/view/40253437/2sB34bJi6f
 
 ## Notes
 - Screenshots are available in the `screenshots/` folder.
