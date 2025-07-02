@@ -35,4 +35,4 @@ This is a backend REST API developed using Spring Boot as part of the Retailclou
 - Collection file: `postman/EMS.postman_collection.json`
 
 ## Notes
-- Screenshots are available in the `screenshots/` folder.
+- Screenshots are available in the `Sql Table Screenshots/` folder.
